@@ -100,3 +100,14 @@ b. Create an array with the above-mentioned constants.
 c. Change the array in ascending order using any of one array function.
 
 d. echo the array value using the foreach method.
+
+
+Sample Project-
+
+create a php addressbook
+1.user registration
+2.user login
+3.profil/listing page
+4.add new address
+5.update/delete options
+6.All the operations using database
